@@ -10,3 +10,5 @@ python编程练手
 4. [手写数字识别](https://github.com/tfcx-th/python-practice/tree/master/handwritten-digit-recognition)
 
 5. [决策树鸢尾花分类](https://github.com/tfcx-th/python-practice/tree/master/decision-tree)
+
+6. [简单web服务器](https://github.com/tfcx-th/python-practice/tree/master/simple-web-server)
